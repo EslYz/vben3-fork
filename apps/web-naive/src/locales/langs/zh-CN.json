@@ -1,0 +1,10 @@
+{
+  "page": {
+    "demos": {
+      "title": "演示",
+      "naive": "Naive UI",
+      "table": "Table",
+      "test": "测试"
+    }
+  }
+}
